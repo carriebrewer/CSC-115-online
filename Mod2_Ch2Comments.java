@@ -14,10 +14,10 @@ public class Ch2Comments {
         // We use comments for:
         // -Documenting your name on the program as the author
         // -Documenting a brief description of the program
-        // -As you go along, making notes to explain to yourself and other what your code should do
+        // -As you go along, making notes to explain to yourself and others what your code should do
 
         // Also: DEBUGGING 
-        // If there is code tht doesn't work quite yet
+        // If there is code that doesn't work quite yet
         // ex. You can isolate a bunch of lines that aren't working and comment them out instead of deleting them
 
         // Also: GIVING CREDIT
