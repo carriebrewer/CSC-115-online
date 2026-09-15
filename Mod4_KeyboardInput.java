@@ -21,7 +21,7 @@ public class KeyboardInput {
         String name;
         int age;
 
-        // INSTANIATE (create) a Scanner that reads from the keyboard
+        // INSTANTIATE (create) a Scanner that reads from the keyboard
         // This makes a Scanner called 'sc'
 
         Scanner sc = new Scanner(System.in);
