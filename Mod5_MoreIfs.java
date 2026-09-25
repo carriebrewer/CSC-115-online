@@ -107,6 +107,17 @@ public class MoreIfs {
 
     }
 
+    // Another option: SWITCH STATEMENTS
+    // Textbook 6.3
+
+    // Pros and cons:
+    // -Switch statements can only handle exact values
+    // (if/else statements can handle ranges)
+    // -Switch statements can only be used with certain primitives and String
+    // -if/else statements can get messy with { }, more prone to errors
+    // (both syntax and logic)
+
+    
 
 
 }
