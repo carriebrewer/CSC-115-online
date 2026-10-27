@@ -51,12 +51,12 @@ public class Dice {
         int total = 0;
         int counter = 0;
         
-        while (counter < numOfDice) {
+        while(counter < numOfDice) {
             total += rollSpecial(sides);
             counter++;
         }
         
-        if (total == 42) {
+        if(total == 42) {
             System.out.println("WINNER!!!!!");
         }
     
